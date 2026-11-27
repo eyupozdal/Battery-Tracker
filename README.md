@@ -8,7 +8,7 @@ Hangi cihazların görüneceğini kendin seçiyorsun. Seçtiğin her cihaz için
 
 ## Kurulum
 
-[Releases](../../releases) sayfasından en son `PilTakip-Setup-x.y.z.exe` dosyasını indirip çalıştır. Yönetici izni istemiyor.
+[Releases](../../releases) sayfasından en son `PilTakip-Setup.exe` dosyasını indirip çalıştır. Yönetici izni istemiyor.
 
 Kurulum dosyası imzalı değil, o yüzden Windows SmartScreen "bilgisayarınızı korudu" diyebilir. "Ek bilgi" ve ardından "Yine de çalıştır" ile geçebilirsin. İstemezsen kaynak kodu burada, aşağıdaki gibi kendin de derleyebilirsin.
 
@@ -39,7 +39,7 @@ You pick which devices to show. Each selected device gets its own tray icon with
 
 ### Install
 
-Grab the latest `PilTakip-Setup-x.y.z.exe` from the [Releases](../../releases) page and run it. It doesn't need admin rights.
+Grab the latest `PilTakip-Setup.exe` from the [Releases](../../releases) page and run it. It doesn't need admin rights.
 
 The installer isn't code-signed, so Windows SmartScreen may complain. Click "More info" and then "Run anyway". If you'd rather not, the source is right here and you can build it yourself.
 
